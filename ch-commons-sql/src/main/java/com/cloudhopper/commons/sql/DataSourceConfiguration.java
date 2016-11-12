@@ -478,7 +478,7 @@ public class DataSourceConfiguration implements Cloneable {
             subProtocol = url.substring(protocolPos+1, subProtocolPos);
         }
 
-	logger.debug("found protocol {} sub-protocol {} from url {}", protocol, subProtocol, url);
+	// logger.debug("found protocol {} sub-protocol {} from url {}", protocol, subProtocol, url);
 
         // attempt to map JDBC url to set the vendor -- this will set the vendor
         // and also the driver if those properties have not yet been set

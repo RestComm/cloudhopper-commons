@@ -77,8 +77,8 @@ public class JettyHttpServer {
             throw new NullPointerException("Internal server instance was null, server not configured perhaps?");
         }
 
-        logger.info("HttpServer [{}] version [{}] using Jetty [{}]", configuration.safeGetName(), com.cloudhopper.jetty.Version.getLongVersion(),
-		    server.getVersion());
+        //logger.info("HttpServer [{}] version [{}] using Jetty [{}]", configuration.safeGetName(), com.cloudhopper.jetty.Version.getLongVersion(),
+	//	    server.getVersion());
         logger.info("HttpServer [{}] on [{}] starting...", configuration.safeGetName(), configuration.getPortString());
 
         // try to start jetty server -- if it fails, it'll actually keep running
