@@ -4,7 +4,7 @@
   <groupId>org.restcomm.smpp</groupId>
   <artifactId>ch-commons-gsm</artifactId>
   <packaging>jar</packaging>
-  <version>7.0.0-SNAPSHOT</version>
+  <version>7.0.4</version>
   <name>ch-commons-gsm</name>
   <description>Utility Java classes for working with GSM mobile technologies (usually SMS or MMS)</description>
   <url>https://github.com/twitter/cloudhopper-commons</url>
@@ -13,7 +13,7 @@
   <parent>
     <groupId>org.restcomm.smpp</groupId>
     <artifactId>ch-commons</artifactId>
-    <version>7.0.0-SNAPSHOT</version>
+    <version>7.0.4</version>
   </parent>
 
   <dependencies>
@@ -21,7 +21,7 @@
     <dependency>
       <groupId>org.restcomm.smpp</groupId>
       <artifactId>ch-commons-util</artifactId>
-      <version>7.0.0-SNAPSHOT</version>
+      <version>7.0.4</version>
     </dependency>
     <!-- provided scope -->
     <!-- runtime scope -->
