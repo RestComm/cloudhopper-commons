@@ -25,12 +25,12 @@
     <dependency>
       <groupId>org.restcomm.smpp</groupId>
       <artifactId>ch-commons-util</artifactId>
-      <version>7.0.0-SNAPSHOT</version>
+      <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>org.restcomm.smpp</groupId>
       <artifactId>ch-commons-charset</artifactId>
-      <version>[3.0.0,)</version>
+      <version>${project.version}</version> <!-- [3.0.0,) -->
     </dependency>
     <dependency>
       <groupId>commons-lang</groupId>

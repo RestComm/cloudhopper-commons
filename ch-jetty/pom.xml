@@ -20,7 +20,7 @@
     <dependency>
       <groupId>org.restcomm.smpp</groupId>
       <artifactId>ch-commons-util</artifactId>
-      <version>7.0.0-SNAPSHOT</version>
+      <version>${project.version}</version>
       <exclusions>
 	<exclusion>
 	  <groupId>joda-time</groupId>
@@ -118,7 +118,7 @@
     <dependency>
       <groupId>org.restcomm.smpp</groupId>
       <artifactId>ch-commons-xbean</artifactId>
-      <version>[3.0.0,)</version>
+      <version>${project.version}</version> <!-- [3.0.0,) -->
       <scope>test</scope>
     </dependency>
   </dependencies>
