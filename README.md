@@ -1,4 +1,5 @@
 Cloudhopper by Twitter [![Build Status](https://secure.travis-ci.org/Restcomm/cloudhopper-commons.png?branch=master)](http://travis-ci.org/Restcomm/cloudhopper-commons)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons?ref=badge_shield)
 ======================
 
 Common Java libraries used by the Cloudhopper family of mobile messaging applications at Twitter.
@@ -76,3 +77,7 @@ License
 Copyright (C) 2010-2014 Twitter, Inc.
 
 This work is licensed under the Apache License, Version 2.0. See LICENSE for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons?ref=badge_large)
