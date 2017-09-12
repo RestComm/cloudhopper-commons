@@ -30,12 +30,12 @@
     <dependency>
       <groupId>c3p0</groupId>
       <artifactId>c3p0</artifactId>
-      <version>0.9.1.2</version>
+      <version>${c3p0.version}</version>
     </dependency>
     <dependency>
       <groupId>com.cloudhopper.proxool</groupId>
       <artifactId>proxool</artifactId>
-      <version>[0.9.1,)</version>
+      <version>${com.cloudhopper.proxool.version}</version>
       <exclusions>
 	<exclusion>
 	  <groupId>commons-logging</groupId>
@@ -77,13 +77,13 @@
     <dependency>
       <groupId>org.restcomm.smpp</groupId>
       <artifactId>ch-commons-xbean</artifactId>
-      <version>${project.version}</version> <!-- [3.0.0,) -->
+      <version>${project.version}</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>[5.1,)</version>
+      <version>${mysql-connector.version}</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
