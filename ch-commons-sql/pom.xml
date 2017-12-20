@@ -4,7 +4,7 @@
   <groupId>org.restcomm.smpp</groupId>
   <artifactId>ch-commons-sql</artifactId>
   <packaging>jar</packaging>
-  <version>7.0.0-SNAPSHOT</version>
+  <version>7.1.0-99</version>
   <name>ch-commons-sql</name>
   <description>SQL and JDBC utilties</description>
   <url>https://github.com/twitter/cloudhopper-commons</url>
@@ -12,7 +12,7 @@
   <parent>
     <groupId>org.restcomm.smpp</groupId>
     <artifactId>ch-commons</artifactId>
-    <version>7.0.0-SNAPSHOT</version>
+    <version>7.1.0-99</version>
   </parent>
 
   <dependencies>
