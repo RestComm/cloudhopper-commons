@@ -4,7 +4,7 @@
   <groupId>org.restcomm.smpp</groupId>
   <artifactId>ch-jetty</artifactId>
   <packaging>jar</packaging>
-  <version>7.0.0-SNAPSHOT</version>
+  <version>7.1.0-101</version>
   <name>ch-jetty</name>
   <description>Wrapper around Jetty HTTP Server that makes config and embedding easy.</description>
   <url>https://github.com/twitter/cloudhopper-commons</url>
@@ -12,7 +12,7 @@
   <parent>
     <groupId>org.restcomm.smpp</groupId>
     <artifactId>ch-commons</artifactId>
-    <version>7.0.0-SNAPSHOT</version>
+    <version>7.1.0-101</version>
   </parent>
 
   <dependencies>
