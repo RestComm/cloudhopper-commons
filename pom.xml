@@ -4,7 +4,7 @@
   <groupId>org.restcomm.smpp</groupId>
   <artifactId>ch-commons</artifactId>
   <packaging>pom</packaging>
-  <version>7.0.0-SNAPSHOT</version>
+  <version>7.1.0-123</version>
   <name>ch-commons</name>
   <description>Parent Maven POM for open source cloudhopper-commons projects</description>
   <url>https://github.com/Restcomm/cloudhopper-commons</url>
