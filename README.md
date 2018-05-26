@@ -1,3 +1,14 @@
+
+
+
+[Try Restcomm Cloud NOW for FREE!](https://www.restcomm.com/sign-up/) Zero download and install required.
+
+
+All Restcomm [docs](https://www.restcomm.com/docs/) and [downloads](https://www.restcomm.com/downloads/) are now available at [Restcomm.com](https://www.restcomm.com).
+
+
+
+
 Cloudhopper by Twitter [![Build Status](https://secure.travis-ci.org/Restcomm/cloudhopper-commons.png?branch=master)](http://travis-ci.org/Restcomm/cloudhopper-commons)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons?ref=badge_shield)
 ======================
@@ -53,31 +64,3 @@ cloudhopper-commons-ssl
 
 Utility Java classes for working with SSL in Cloudhopper-based projects. Originally part of cloudhopper-smpp.
 
-
-Installation
-------------
-
-Library versions are now published to the Maven Central Repository.
-Just add the following dependency to your project maven pom.xml:
-
-    <dependency>
-      <groupId>com.cloudhopper</groupId>
-      <artifactId>ch-artifact-name</artifactId>
-      <version>version.number</version>
-    </dependency>
-
-Demo Code / Tutorials
----------------------
-
-Most of the modules contain examples of how to use various parts of the libraries in the demo package of the test sources. Additionally, some of the modules have a simple Makefile that simplify running demos.
-
-License
--------
-
-Copyright (C) 2010-2014 Twitter, Inc.
-
-This work is licensed under the Apache License, Version 2.0. See LICENSE for details.
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fcloudhopper-commons?ref=badge_large)
